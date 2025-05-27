@@ -1,0 +1,25 @@
+{
+    "sessionId": "VRKAMER-20250408-XYZ123",
+    "roomId": "ROOM-001",
+    "coach": {
+        "id": "coach-007",
+        "name": "Anna Vermeer",
+        "visibleInSession": false
+    },
+    "coachees": [
+        {
+            "id": "coachee-001",
+            "name": "Joris van Dijk"
+        },
+        {
+            "id": "coachee-002",
+            "name": "Fatima Bouali"
+        }
+    ],
+    "objects": {
+        "stickyNotes": [],
+        "images": [],
+        "atmosphereObjects": []
+    },
+    "lastUpdated": "2025-05-26T14:39:24.2792768Z"
+}
